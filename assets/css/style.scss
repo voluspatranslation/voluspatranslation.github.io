@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+p.view {
+    display: none;
+}
+
+footer>p>small {
+    display: none;
+}
